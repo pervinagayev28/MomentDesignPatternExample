@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Desktop\Momento\Momento\obj\Debug\net7.0\Momento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\Momento\Momento\obj\Debug\net7.0\Momento.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\Momento\Momento\obj\Debug\net7.0\Momento.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\Momento\Momento\obj\Debug\net7.0\Momento.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\Momento\Momento\bin\Debug\net7.0\Momento.exe
+C:\Users\user\OneDrive\Desktop\Momento\Momento\bin\Debug\net7.0\Momento.deps.json
+C:\Users\user\OneDrive\Desktop\Momento\Momento\bin\Debug\net7.0\Momento.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\Momento\Momento\bin\Debug\net7.0\Momento.dll
+C:\Users\user\OneDrive\Desktop\Momento\Momento\bin\Debug\net7.0\Momento.pdb
+C:\Users\user\OneDrive\Desktop\Momento\Momento\obj\Debug\net7.0\Momento.dll
+C:\Users\user\OneDrive\Desktop\Momento\Momento\obj\Debug\net7.0\refint\Momento.dll
+C:\Users\user\OneDrive\Desktop\Momento\Momento\obj\Debug\net7.0\Momento.pdb
+C:\Users\user\OneDrive\Desktop\Momento\Momento\obj\Debug\net7.0\Momento.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\Momento\Momento\obj\Debug\net7.0\ref\Momento.dll
